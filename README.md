@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning about R, Tableau
 - 💬 Open for suggestions and would love to discuss about projects
 - 📫 How to reach me: dharashreem143@gmail.com
-- 😄 Pronouns: she/her
+
 
