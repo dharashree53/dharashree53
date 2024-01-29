@@ -1,4 +1,4 @@
-##### Hi there, I'm Dharashree Mishra👋
+# Hi there, I'm Dharashree Mishra👋
 
 - 🔭 I’m currently working on SQL, Power BI, and Data visualization projects
 - 🌱 I’m currently learning about R, Tableau
